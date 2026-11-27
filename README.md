@@ -1,2 +1,2 @@
-# team-project-practice
+# Team Project (версия А)
 Практическая работа по командной разработке
